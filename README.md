@@ -42,43 +42,5 @@ Contact us
 ---------------
 The FPGA Placement Framework is released by Ghent University, ELIS department, Hardware and Embedded Systems (HES) group (http://hes.elis.ugent.be).
 
-If you encounter bugs, want to use the FPGA CAD Framework but need support or want to tell us about your results, please contact us. We can be reached at yun.zhou[at]ugent.be
-
-Referencing the FPGA Placement Framework
----------------
-If you use the FPGA CAD Framework in your work, please reference the following papers in your publications: <br>
-
-Packing:
-<b>How preserving circuit design hierarchy during FPGA packing leads to better performance <br>
-Dries Vercruyce, Elias Vansteenkiste and Dirk Stroobandt</b> <br>
-<i> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}, 37(3), pp. 629-642.</i>
-
-Placement:
-<b>Liquid: High quality scalable placement for large heterogeneous FPGAs<br>
-Dries Vercruyce, Elias Vansteenkiste and Dirk Stroobandt</b> <br>
-<i> Field Programmable Technology (ICFPT), 2017 17th International Conference on. IEEE, 2017</i>
-
-Routing:
-<b>CRoute: A fast high-quality timing-driven connection-based FPGA router<br>
-Dries Vercruyce, Elias Vansteenkiste and Dirk Stroobandt</b> <br>
-<i> accepted for publication</i>
-
-Contributors
----------------
-Active Contributors
-<ul>
-  <li>Yun Zhou - <a href="mailto:yun.zhou@ugent.be">yun.zhou@ugent.be</a></li>
-</ul>
-
-Past Contributors
-<ul>
-  <li>Dries Vercruyce - <a href="mailto:dries.vercruyce@ugent.be">dries.vercruyce@ugent.be</a></li>
-  <li>Elias Vansteenkiste - <a href="mailto:Elias.Vansteenkiste@gmail.com">Elias.Vansteenkiste@gmail.com</a></li>
-  <li>Arno Messiaen - <a href="mailto:Arno.Messiaen@gmail.com">Arno.Messiaen@gmail.com</a></li>
-  <li>Seppe Lenders - <a href="mailto:Seppe.Lenders@gmail.com"> Seppe.Lenders@gmail.com</a></li>
-</ul>
-
-Development
----------------
-The FPGA CAD Framework is a work in progress, input is welcome.
+If you encounter bugs, want to use the FPGA CAD Framework but need support or want to tell us about your results, please contact us. We can be reached at raveenaramanand.raikar[at]ugent.be
 
