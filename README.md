@@ -27,12 +27,12 @@ Some parts of this toolflow require external packages.
 Partitioning: hMETIS.
 Packing: VPR (from VTR package).
 
-Program arguments:
---result_folder /path/to/result/folder
---architecture  /Arch_file_name
---circuit /circuit_name
---vpr_folder /path/to/VTR/root/folder
---hmetis_folder /path/to/hmetis/folder
+Program arguments: < br / > 
+--result_folder /path/to/result/folder < br / > 
+--architecture  /Arch_file_name < br / > 
+--circuit /circuit_name < br / > 
+--vpr_folder /path/to/VTR/root/folder < br / > 
+--hmetis_folder /path/to/hmetis/folder < br / > 
 
 License
 ---------------
