@@ -13,7 +13,7 @@ What can I do with this tool flow?
 <li>
 Partitioning and Packing:
 <ul>
-  <li>The partitioning flow is incorporated in the packing flow. The first step is to partition the input netlist (BLIF format) based on the number of die in the system. The next step is packing using AApack (VTR8).</li>
+  <li>The partitioning step is incorporated in the packing flow. The first step is to partition the input netlist (BLIF format) based on the number of die in the system. The next step is packing using AApack (VTR8).</li>
 </ul>
 </li>
 
