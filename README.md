@@ -27,7 +27,7 @@ Some parts of this toolflow require external packages.
 Partitioning: hMETIS.
 Packing: VPR (from VTR package).
 
-Progam arguments:
+Program arguments:
 --result_folder /path/to/result/folder
 --architecture  /Arch_file_name
 --circuit /circuit_name
