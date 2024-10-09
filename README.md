@@ -23,9 +23,9 @@ Partitioning and Packing:
 Usage
 ---------------
 
-Some parts of this toolflow require external packages. 
-Partitioning: hMETIS.
-Packing: VPR (from VTR package).
+Some parts of this toolflow require external packages.  
+Partitioning: hMETIS.  
+Packing: VPR (from VTR package).  
 
 Program arguments:  
 --result_folder /path/to/result/folder  
